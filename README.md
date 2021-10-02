@@ -1,1 +1,1 @@
-# Medical-store-mini-project
+# Medical-store
